@@ -217,10 +217,11 @@ Multi-page healthcare platform with symptom risk assessment using 50% threshold 
 
 - Intensive Python full-stack development program
 - Built production-ready web applications
-- Completed a Real World Project
+- Mastered Django, Flask, and React integration
+- Completed 10+ real-world projects
 - Learned industry best practices
 
-**Tech:** Python, Flask, React.js, SQL
+**Tech:** Python, Django, Flask, React.js, SQL
 
 </td>
 </tr>
@@ -260,7 +261,7 @@ Multi-page healthcare platform with symptom risk assessment using 50% threshold 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhagyaholkade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Bhagyaholkade&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FFB800&currStreakLabel=667EEA&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Bhagyaholkade&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FFB800&currStreakLabel=667EEA&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -280,7 +281,7 @@ Multi-page healthcare platform with symptom risk assessment using 50% threshold 
 <td width="50%" valign="top">
 
 ### 💻 Full Stack Development
-- React + Flask architecture
+- React + Flask/Django architecture
 - RESTful API design & implementation
 - Database design (PostgreSQL, MongoDB)
 - Authentication & authorization
@@ -315,7 +316,7 @@ Multi-page healthcare platform with symptom risk assessment using 50% threshold 
 <td width="50%" valign="top">
 
 ### 🔧 Backend & DevOps
-- Python (Flask)
+- Python (Flask, Django)
 - Node.js & Express.js
 - PostgreSQL & MongoDB
 - RESTful API development
@@ -342,7 +343,7 @@ Multi-page healthcare platform with symptom risk assessment using 50% threshold 
 ## 🤝 Let's Connect!
 
 I'm always excited to discuss:
-- 💻 **Full Stack Development** - React, Flask
+- 💻 **Full Stack Development** - React, Flask, Django
 - 📊 **Data Analytics** - Pandas, Plotly, Power BI
 - 🎨 **UI/UX Design** - Figma, Modern CSS
 - 🚀 **Project Collaborations** - Open source & startups
