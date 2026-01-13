@@ -1,19 +1,19 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:8B5CF6&height=180&section=header&text=Bhagya%20Holkade&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Frontend%20Developer&descAlignY=52&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Bhagya%20Holkade&fontSize=70&color=0:667eea,100:764ba2&fontColor=ffffff&animation=fadeIn&desc=Python%20Full%20Stack%20Developer%20|%20Data%20Analyst%20|%20Frontend%20Developer&descAlignY=65&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Python+%2B+React+%2B+Flask+Developer+%F0%9F%92%BB;Data+Analytics+%26+Visualization+Expert+%F0%9F%93%8A;Building+Scalable%2C+User-Centric+Applications+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Python+%2B+React+%2B+Flask+Developer+%F0%9F%92%BB;Data+Analytics+%26+Visualization+Expert+%F0%9F%93%8A;Building+Scalable%2C+User-Centric+Applications+%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhagya-holkade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://bhagyar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://bhagyar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:holkadebhagya@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Bhagyaholkade&label=Profile+Views&color=06B6D4&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Bhagyaholkade&label=Profile+Views&color=667EEA&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 - 🌍 Based in **Bangalore, India 🇮🇳**
 - 🎓 B.E. in **Information Science & Engineering** @ MVJ College of Engineering (GPA: 8.0)
@@ -62,10 +62,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Machine Learning
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -96,7 +92,7 @@ AI-powered marketplace analysis tool helping sellers optimize product listings a
 **💻 Tech Stack:** React • TypeScript • Express.js • Supabase • PostgreSQL • Tailwind CSS • shadcn/ui  
 **🎯 Impact:** Automated product analysis • Reduced manual work by 60% • Scalable architecture
 
-[🔗 Live Demo](https://salesence.vercel.app) • [📂 GitHub](https://github.com/Bhagyaholkade/Salesence)
+[🔗 Live Demo](https://gosalesence.com/) • [📂 GitHub](https://github.com/Bhagyaholkade/Salesence)
 
 ---
 
@@ -221,11 +217,10 @@ Multi-page healthcare platform with symptom risk assessment using 50% threshold 
 
 - Intensive Python full-stack development program
 - Built production-ready web applications
-- Mastered Django, Flask, and React integration
-- Completed 10+ real-world projects
+- Completed a Real World Project
 - Learned industry best practices
 
-**Tech:** Python, Django, Flask, React.js, SQL
+**Tech:** Python, Flask, React.js, SQL
 
 </td>
 </tr>
@@ -252,7 +247,7 @@ Multi-page healthcare platform with symptom risk assessment using 50% threshold 
 
 - **GPA:** 8.0/10
 - Focus: Web Development, Data Analytics, AI/ML
-- Projects: 15+ full-stack & data science projects
+- Projects: 5+ full-stack & data science projects
 - Certifications: Python, MySQL, Responsive Web Design
 
 </td>
@@ -264,16 +259,16 @@ Multi-page healthcare platform with symptom risk assessment using 50% threshold 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhagyaholkade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Bhagyaholkade&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=FFB800&currStreakLabel=06B6D4&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhagyaholkade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Bhagyaholkade&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FFB800&currStreakLabel=667EEA&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhagyaholkade&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhagyaholkade&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=c9d1d9" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyaholkade&bg_color=0D1117&color=06B6D4&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyaholkade&bg_color=0D1117&color=667EEA&line=764BA2&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -285,7 +280,7 @@ Multi-page healthcare platform with symptom risk assessment using 50% threshold 
 <td width="50%" valign="top">
 
 ### 💻 Full Stack Development
-- React + Flask/Django architecture
+- React + Flask architecture
 - RESTful API design & implementation
 - Database design (PostgreSQL, MongoDB)
 - Authentication & authorization
@@ -300,23 +295,12 @@ Multi-page healthcare platform with symptom risk assessment using 50% threshold 
 - Statistical analysis & modeling
 - Interactive dashboards (Plotly, Streamlit)
 - Power BI reporting
-- ML model development (94% accuracy)
 - Data visualization best practices
+- Real-time data processing
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🤖 Machine Learning
-- Scikit-learn, XGBoost
-- Random Forest (85-94% accuracy)
-- Feature engineering
-- Model evaluation & optimization
-- Predictive analytics
-- Risk classification systems
-
-</td>
 <td width="50%" valign="top">
 
 ### 🎨 Frontend Excellence
@@ -326,6 +310,17 @@ Multi-page healthcare platform with symptom risk assessment using 50% threshold 
 - Figma to code workflow
 - Responsive design patterns
 - Performance optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Backend & DevOps
+- Python (Flask)
+- Node.js & Express.js
+- PostgreSQL & MongoDB
+- RESTful API development
+- Docker containerization
+- Cloud deployment (Vercel, Netlify, Render)
 
 </td>
 </tr>
@@ -347,9 +342,8 @@ Multi-page healthcare platform with symptom risk assessment using 50% threshold 
 ## 🤝 Let's Connect!
 
 I'm always excited to discuss:
-- 💻 **Full Stack Development** - React, Flask, Django
+- 💻 **Full Stack Development** - React, Flask
 - 📊 **Data Analytics** - Pandas, Plotly, Power BI
-- 🤖 **Machine Learning** - Scikit-learn, XGBoost
 - 🎨 **UI/UX Design** - Figma, Modern CSS
 - 🚀 **Project Collaborations** - Open source & startups
 
@@ -361,7 +355,7 @@ I'm always excited to discuss:
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://bhagyar.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Bhagyaholkade">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -377,14 +371,14 @@ I'm always excited to discuss:
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer)
 
 <p align="center">
   <i>⭐ Thanks for visiting! If you find my work interesting, consider giving it a star! ⭐</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhagyaholkade&label=Profile%20Views&color=06B6D4&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Bhagyaholkade&label=Profile%20Views&color=667EEA&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
