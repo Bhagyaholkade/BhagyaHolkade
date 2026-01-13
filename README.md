@@ -1,316 +1,392 @@
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:8B5CF6&height=180&section=header&text=Bhagya%20Holkade&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Frontend%20Developer&descAlignY=52&descSize=18)
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   ██████╗ ██╗  ██╗ █████╗  ██████╗██╗   ██╗ █████╗                     ║
-║   ██╔══██╗██║  ██║██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗                    ║
-║   ██████╔╝███████║███████║██║  ███╗╚████╔╝ ███████║                    ║
-║   ██╔══██╗██╔══██║██╔══██║██║   ██║ ╚██╔╝  ██╔══██║                    ║
-║   ██████╔╝██║  ██║██║  ██║╚██████╔╝  ██║   ██║  ██║                    ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝  ╚═╝                    ║
-║                                                                          ║
-║              🎨 Python Full Stack Developer & UI/UX Artist              ║
-║                  💫 Transforming Ideas into Experiences                 ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Python+%2B+React+%2B+Flask+Developer+%F0%9F%92%BB;Data+Analytics+%26+Visualization+Expert+%F0%9F%93%8A;Building+Scalable%2C+User-Centric+Applications+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=9D4EDD&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Python+%7C+Django+%7C+React+%7C+UI%2FUX;Building+scalable+applications+with+elegant+code;Always+learning%2C+forever+growing+%F0%9F%8C%B1" alt="Typing SVG" />
-
-<p>
-  <a href="https://www.linkedin.com/in/bhagya-holkade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://bhagyar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:Holkadebhagya@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Bhagyaholkade&label=Profile+Views&color=9D4EDD&style=flat-square" alt="Profile Views"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhagya-holkade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://bhagyar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:holkadebhagya@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Bhagyaholkade&label=Profile+Views&color=06B6D4&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🌟 About Me in 30 Seconds
+## 👨‍💻 About Me
 
-</div>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Bhagya Holkade"
-        self.role = "Python Full Stack Developer"
-        self.location = "Bangalore, India 🇮🇳"
-        self.education = "B.E. in Information Science & Engineering"
-        self.workplace = "Qspiders - Python Full Stack Training"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "SQL", "HTML5", "CSS3"],
-            "frameworks": ["Django", "Flask", "React.js", "Bootstrap", "Tailwind"],
-            "databases": ["PostgreSQL", "MongoDB", "MySQL"],
-            "tools": ["Git", "Figma", "VS Code", "Postman"],
-            "interests": ["Web Development", "UI/UX Design", "Problem Solving"]
-        }
-    
-    def current_mission(self):
-        return """
-        🎯 Building user-centric applications that solve real problems
-        🌱 Continuously learning and adapting to new technologies
-        🤝 Open to collaborations and exciting opportunities
-        """
-    
-    def philosophy(self):
-        return "Clean code + Beautiful design = Amazing user experience ✨"
-```
-
-<div align="center">
+- 🌍 Based in **Bangalore, India 🇮🇳**
+- 🎓 B.E. in **Information Science & Engineering** @ MVJ College of Engineering (GPA: 8.0)
+- 💼 **Full Stack Developer Intern** @ Salesence (Current)
+- 🔥 Completed **Python Full Stack Training** @ Qspiders (Sep 2024)
+- 🚀 Specializing in **React + Flask/Django** full-stack development
+- 📊 Passionate about **Data Analytics & Visualization**
+- 🎨 UI/UX enthusiast with **Figma** expertise
+- 💡 **40K+ lines of code** across data analytics and web development projects
+- ⚡ Fun fact: **I turn complex data into beautiful, actionable insights! 📈✨**
 
 ---
 
-## 💼 Professional Journey
+## 🛠️ Tech Stack
 
-</div>
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🚀 Current Role
-**Python Full Stack Developer & Trainee**  
-📍 *Qspiders*  
-📅 *Present*
+### Data Analytics & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-- 🔥 Intensive full-stack training program
-- 💻 Hands-on projects with modern technologies
-- 🎓 Learning industry best practices
-- 🌟 Building production-grade applications
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+### Machine Learning
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
-### 🎨 Previous Experience
-**Frontend Developer Intern**  
-📍 *Varcons Technologies*  
-📅 *2024*
-
-- ⚡ Built Inventory & Billing Management System
-- 🎯 Enhanced UI/UX across multiple screens
-- 🤝 Collaborated with cross-functional teams
-- 📈 Improved user engagement metrics
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
----
-
-## 🛠️ Tech Toolbox
-
-<details>
-<summary>🎨 <b>Frontend Arsenal</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details>
-<summary>⚙️ <b>Backend Power</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</details>
-
-<details>
-<summary>🗄️ <b>Database & Tools</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</details>
+### Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-</div>
+### 🤖 Salesence - AI-Powered Marketplace Optimizer
+> **Full Stack Developer Intern Project | Current**
 
-### 🎬 Movie Ticket Booking System
-> **Your seamless entertainment companion**
+AI-powered marketplace analysis tool helping sellers optimize product listings across Amazon, Trendyol, and Hepsiburada.
 
-A comprehensive movie ticket booking platform featuring real-time seat selection, dynamic pricing, and payment integration. Built with a focus on user experience and responsive design.
+**🔥 Key Features:**
+- Real-time product scraping with AI recommendations
+- Smart competitive analysis with ML models
+- Multi-language support (i18n)
+- RESTful API with Express backend
+- PostgreSQL database with Supabase
+- Docker containerization
 
-**Tech Stack:** React.js • Python • SQL • REST API  
-**Features:** Real-time seat availability • Payment gateway • User authentication • Booking history  
-**Highlights:** Responsive UI • Clean code architecture • Optimized performance
+**💻 Tech Stack:** React • TypeScript • Express.js • Supabase • PostgreSQL • Tailwind CSS • shadcn/ui  
+**🎯 Impact:** Automated product analysis • Reduced manual work by 60% • Scalable architecture
 
----
-
-### 🏥 COVID-19 Risk Assessment & Virtual Appointment System
-> **Healthcare made accessible**
-
-An intelligent health platform combining real-time COVID-19 risk assessment with virtual appointment scheduling. Features interactive data visualizations and automated workflows.
-
-**Tech Stack:** Django • JavaScript • Bootstrap • PostgreSQL  
-**Features:** Risk scoring algorithm • Appointment management • Data visualization • Admin dashboard  
-**Highlights:** User-centric design • Real-time data processing • Secure patient data handling
+[🔗 Live Demo](https://salesence.vercel.app) • [📂 GitHub](https://github.com/Bhagyaholkade/Salesence)
 
 ---
 
-### 🦴 Bone Fracture Detection System
-> **AI-powered medical diagnostics**
+### 🌪️ Real-Time Disaster & Weather Analytics Dashboard
+> **Data Analytics & ML Project**
 
-Deep learning application for automated bone fracture detection from X-ray images. Implements CNN models for high-accuracy classification and localization.
+Comprehensive analytics dashboard tracking weather conditions and natural disasters with AI-powered risk prediction (85.7% accuracy).
 
-**Tech Stack:** Python • TensorFlow • OpenCV • CNN  
-**Features:** Image preprocessing • Fracture classification • Bounding box detection • Accuracy metrics  
-**Highlights:** 95%+ accuracy • Medical imaging processing • Deep learning implementation
+**🔥 Key Features:**
+- 6 interactive pages with real-time data processing
+- Machine Learning risk prediction (Random Forest)
+- Interactive maps with disaster markers & heatmaps
+- Executive KPI dashboard with auto-refresh
+- Modern dark theme with glassmorphism
 
----
+**💻 Tech Stack:** Python • Streamlit • Plotly • Folium • Scikit-learn • Pandas  
+**🎯 Impact:** 50+ disasters tracked • 31 weather records analyzed • Professional portfolio demo
 
-### 📦 Inventory & Billing Management System
-> **Streamlining business operations**
-
-Full-featured business management solution with real-time inventory tracking, automated billing, invoice generation, and comprehensive analytics dashboard.
-
-**Tech Stack:** React.js • Django • PostgreSQL • REST API  
-**Features:** Real-time stock tracking • Invoice generation • Sales analytics • User roles  
-**Highlights:** Built during internship • Production-ready • Scalable architecture
+[📂 GitHub](https://github.com/Bhagyaholkade/Real-Time-Disaster-Weather-Analytics-Dashboard)
 
 ---
 
-### 🎪 VertechX Event Dashboard UI
-> **Bringing tech events to life**
+### 💰 Financial Analytics Dashboard
+> **Data Analysis & Fraud Detection | 94% ML Accuracy**
 
-Creative UI/UX design for a college tech fest dashboard, featuring event management, registration workflows, and real-time updates with an engaging user interface.
+Analyzed 40K+ financial records with interactive dashboards for expense tracking, credit risk assessment, and fraud detection.
 
-**Tech Stack:** React.js • Tailwind CSS • Figma  
-**Features:** Event calendar • Registration system • Live updates • Admin panel  
-**Highlights:** Modern design • Intuitive navigation • Responsive across devices
+**🔥 Key Features:**
+- Processed 40K+ real-world financial records
+- Credit risk modeling (Random Forest - 94% accuracy)
+- Fraud detection with ML algorithms
+- Interactive Plotly visualizations
+- Power BI integration for business insights
 
-<div align="center">
+**💻 Tech Stack:** Python • Flask • Plotly • Pandas • NumPy • Scikit-learn • Power BI  
+**🎯 Impact:** $726K fraud detected • 557 high-risk customers identified • 5.24% fraud rate
 
----
-
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhagyaholkade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyaholkade&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Bhagyaholkade&theme=tokyonight&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=FFB800&currStreakLabel=9D4EDD&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+[📂 GitHub](https://github.com/Bhagyaholkade/Financial-Analytics-Dashboard)
 
 ---
 
-## 🎯 What I'm Looking For
+### 🏏 Cricket Outcome Predictor
+> **AI-Powered Sports Analytics**
 
-</div>
+AI-powered cricket match prediction dashboard with beautiful UI featuring toss simulator, live commentary, and player stats.
+
+**🔥 Key Features:**
+- XGBoost ML model for match predictions
+- Interactive toss simulator with animations
+- Real-time match commentary simulation
+- Player performance tracking
+- Fantasy league team builder
+
+**💻 Tech Stack:** Python • Streamlit • XGBoost • Plotly • Pandas • Lottie  
+**🎯 Impact:** Accurate match predictions • Modern glassmorphism UI • Interactive charts
+
+[📂 GitHub](https://github.com/Bhagyaholkade/Cricket-Outcome-Predictor)
+
+---
+
+### 🎬 CineVerse - 3D Movie Ticket Booking
+> **Immersive Full Stack Application**
+
+Stunning 3D movie booking app with cinematic experience featuring animated film reel tunnel and interactive seat selection.
+
+**🔥 Key Features:**
+- 3D animated backgrounds (2000+ particles)
+- Voice-powered search with AI
+- Interactive seat selection in 3D
+- Movie trailer player
+- Watch party with friends feature
+
+**💻 Tech Stack:** React • Three.js • Framer Motion • Node.js • Lucide Icons  
+**🎯 Impact:** Immersive UX • 60fps smooth animations • Modern glassmorphism design
+
+[📂 GitHub](https://github.com/Bhagyaholkade/CineVerse)
+
+---
+
+### 🏥 COVID-19 Symptom Checker & Virtual Appointments
+> **Healthcare Data Application**
+
+Multi-page healthcare platform with symptom risk assessment using 50% threshold scoring and virtual appointment booking system.
+
+**🔥 Key Features:**
+- Symptom risk scoring algorithm
+- Global COVID-19 dashboard with real-time APIs
+- Virtual appointment booking
+- PDF receipt generation
+- Animated UI with particles.js
+
+**💻 Tech Stack:** Python • Streamlit • HTML/CSS • JavaScript • APIs  
+**🎯 Impact:** Smart symptom tracking • Healthcare awareness • User-friendly interface
+
+[📂 GitHub](https://github.com/Bhagyaholkade/Interactive-COVID-19-Symptom-Risk-Assessment-and-Virtual-Appointment-Booking-System)
+
+---
+
+## 💼 Professional Experience
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### 💼 Opportunities
+### 🚀 Full Stack Developer Intern
+**Salesence** • *Oct 2024 - Present*
 
-Full-time roles in  
-Full Stack Development  
-Frontend Engineering  
-UI/UX Development
+- Building AI-powered marketplace analysis tool
+- Developed full-stack application with React + Express
+- Implemented product scraping & competitive analysis
+- Integrated PostgreSQL database with Supabase
+- Containerized services with Docker
+- Achieved 60% reduction in manual analysis work
 
-</td>
-<td width="33%" align="center">
-
-### 🤝 Collaborations
-
-Open source projects  
-Innovative startups  
-Creative side projects  
-Learning communities
+**Tech:** React, TypeScript, Express.js, Supabase, PostgreSQL
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### 🌱 Growth Areas
+### 🐍 Python Full Stack Training
+**Qspiders** • *Completed Sep 2024*
 
-Cloud technologies  
-Modern architecture  
-Advanced algorithms  
-System design
+- Intensive Python full-stack development program
+- Built production-ready web applications
+- Mastered Django, Flask, and React integration
+- Completed 10+ real-world projects
+- Learned industry best practices
+
+**Tech:** Python, Django, Flask, React.js, SQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Developer Intern
+**Varcons Technologies** • *2024*
+
+- Built Inventory & Billing Management System
+- Developed responsive UI with React.js
+- Enhanced user experience across screens
+- Collaborated with backend team
+- Improved engagement metrics by 25%
+
+**Tech:** React.js, JavaScript, Bootstrap, REST APIs
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Education
+**B.E. in Information Science & Engineering**  
+*MVJ College of Engineering* • *Dec 2021 - Jun 2025*
+
+- **GPA:** 8.0/10
+- Focus: Web Development, Data Analytics, AI/ML
+- Projects: 15+ full-stack & data science projects
+- Certifications: Python, MySQL, Responsive Web Design
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhagyaholkade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Bhagyaholkade&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=FFB800&currStreakLabel=06B6D4&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhagyaholkade&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=c9d1d9" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhagyaholkade&bg_color=0D1117&color=06B6D4&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
 
 ---
 
-## 💭 Philosophy & Approach
+## 🎯 Core Competencies
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> 💡 **Code with Purpose:** Every line of code should serve a purpose and solve a real problem.
+### 💻 Full Stack Development
+- React + Flask/Django architecture
+- RESTful API design & implementation
+- Database design (PostgreSQL, MongoDB)
+- Authentication & authorization
+- State management (Redux, Context)
+- Responsive UI/UX design
 
-> 🎨 **Design with Empathy:** Great UX comes from understanding users' needs and pain points.
+</td>
+<td width="50%" valign="top">
 
-> 🚀 **Build with Passion:** The best projects are born from curiosity and dedication.
+### 📊 Data Analytics
+- Data cleaning & preprocessing (40K+ records)
+- Statistical analysis & modeling
+- Interactive dashboards (Plotly, Streamlit)
+- Power BI reporting
+- ML model development (94% accuracy)
+- Data visualization best practices
 
-> 🌱 **Learn Continuously:** Technology evolves, and so should we.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🤖 Machine Learning
+- Scikit-learn, XGBoost
+- Random Forest (85-94% accuracy)
+- Feature engineering
+- Model evaluation & optimization
+- Predictive analytics
+- Risk classification systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Excellence
+- Modern UI frameworks (React, Three.js)
+- CSS frameworks (Tailwind, Bootstrap)
+- Animation libraries (Framer Motion)
+- Figma to code workflow
+- Responsive design patterns
+- Performance optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let's Connect!
+## 🏆 Achievements & Certifications
+
+- 🥇 **Python Certification** - Geekster
+- 🎓 **Responsive Web Design** - freeCodeCamp (May 2024)
+- 📊 **MySQL for Beginners** - Udemy
+- 💻 **40,000+ Lines of Code** - Across data analytics & web projects
+- 🚀 **6+ Production Projects** - Live and deployed
+- 📈 **94% ML Model Accuracy** - Financial fraud detection
+
+---
+
+## 🤝 Let's Connect!
 
 I'm always excited to discuss:
-- 💻 Full Stack Development & Architecture
-- 🎨 UI/UX Design Principles
-- 🤖 AI/ML Integration in Web Apps
-- 🚀 New Technologies & Frameworks
-- 🤝 Collaboration Opportunities
+- 💻 **Full Stack Development** - React, Flask, Django
+- 📊 **Data Analytics** - Pandas, Plotly, Power BI
+- 🤖 **Machine Learning** - Scikit-learn, XGBoost
+- 🎨 **UI/UX Design** - Figma, Modern CSS
+- 🚀 **Project Collaborations** - Open source & startups
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhagya-holkade/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:holkadebhagya@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://bhagyar.netlify.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Bhagyaholkade">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-### 📬 Reach Out
-
-<a href="https://www.linkedin.com/in/bhagya-holkade/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:Holkadebhagya@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://bhagyar.netlify.app/">
-  <img src="https://img.shields.io/badge/-Portfolio-9D4EDD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br><br>
-
-```
-"The best way to predict the future is to create it."
-                                        - Peter Drucker
-```
-
----
-
-### ⭐ If you find my work interesting, consider giving it a star!
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="marquee"/>
+<p align="center">
+  📧 <strong>Email:</strong> holkadebhagya@gmail.com<br>
+  🌐 <strong>Portfolio:</strong> <a href="https://bhagyar.netlify.app/">bhagyar.netlify.app</a><br>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/bhagya-holkade/">linkedin.com/in/bhagya-holkade</a><br>
+  📍 <strong>Location:</strong> Bangalore, Karnataka, India
+</p>
 
 ---
 
-<sub>💜 Crafted with passion by Bhagya Holkade</sub>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:06B6D4&height=100&section=footer)
 
-</div>
+<p align="center">
+  <i>⭐ Thanks for visiting! If you find my work interesting, consider giving it a star! ⭐</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhagyaholkade&label=Profile%20Views&color=06B6D4&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <sub>💙 Crafted with passion by Bhagya Holkade | Building the future, one line of code at a time</sub>
+</p>
