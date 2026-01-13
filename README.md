@@ -18,8 +18,8 @@
 - 🌍 Based in **Bangalore, India 🇮🇳**
 - 🎓 B.E. in **Information Science & Engineering** @ MVJ College of Engineering (GPA: 8.0)
 - 💼 **Full Stack Developer Intern** @ Salesence (Current)
-- 🔥 Completed **Python Full Stack Training** @ Qspiders (Sep 2024)
-- 🚀 Specializing in **React + Flask/Django** full-stack development
+- 🔥 Completed **Python Full Stack Training** @ Qspiders (Sep 2025)
+- 🚀 Specializing in **React + Flask** full-stack development
 - 📊 Passionate about **Data Analytics & Visualization**
 - 🎨 UI/UX enthusiast with **Figma** expertise
 - 💡 **40K+ lines of code** across data analytics and web development projects
