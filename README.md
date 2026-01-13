@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Bhagya%20Holkade&fontSize=70&color=0:667eea,100:764ba2&fontColor=ffffff&animation=fadeIn&desc=%20Full%20Stack%20Developer%20|%20Data%20Analyst%20|%20Frontend%20Developer&descAlignY=65&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Bhagya%20Holkade&fontSize=70&color=0:667eea,100:764ba2&fontColor=ffffff&animation=fadeIn&desc=Python%20Full%20Stack%20Developer%20|%20Data%20Analyst%20|%20Frontend%20Developer&descAlignY=65&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Python+%2B+React+%2B+Flask+Developer+%F0%9F%92%BB;Data+Analytics+%26+Visualization+Expert+%F0%9F%93%8A;+Building+Scalable%2C+User-Centric+Applications+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Python+%2B+React+%2B+Flask+Developer+%F0%9F%92%BB;Data+Analytics+%26+Visualization+Expert+%F0%9F%93%8A;Building+Scalable%2C+User-Centric+Applications+%E2%9C%A8)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhagya-holkade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
